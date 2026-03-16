@@ -1,6 +1,6 @@
 # THWS Calendar Sync
 
-This repository contains a script to automatically scrape a THWS schedule and convert it into a subscribable Calendar (`.ics`) file.
+This repository contains a script to automatically scrape a hosted PDF schedule and convert it into a subscribable Calendar (`.ics`) file.
 
 The script runs nightly via GitHub Actions to ensure the calendar is always up to date.
 
@@ -22,12 +22,12 @@ To add this schedule to your Calendar (`.ics` supported):
 
 This project requires you to specify the schedule URL as an environment variable to prevent hardcoding PII/Specific links.
 
-1. **GitHub Actions**: Add a Repository Secret named `SCHEDULE_URL` containing the link to the THWS schedule HTML page.
+1. **GitHub Actions**: Add a Repository Secret named `SCHEDULE_URL` containing the link to the schedule PDF.
 2. **Local Development**: Run the script by passing the environment variable:
 
 ```bash
 pip install -r requirements.txt
-SCHEDULE_URL="https://fas.thws.de/..." python sync.py
+SCHEDULE_URL="https://your-pdf-url-here/..." python sync.py
 ```
 
 ## License

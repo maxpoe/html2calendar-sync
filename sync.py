@@ -65,11 +65,6 @@ def extract_events(html_content):
     
     events = []
     
-    # We don't have a rigid assumption of columns, we just look for blocks 
-    # that look like event data: A date block followed by time block followed by content.
-    # Looking at the sample:
-    # ['Mi, 18.03.2026', '8:15 - 9:45 Uhr', 'SU Praxisbezogenes Projekt [BMG]', 'PRXP', 'Umgang m. psychischen Belastungen bei Studierenden', 'Prof. Dr. Holger Truckenbrodt', 'M.1.02']
-    
     for table in tables:
         rows = table.find_all("tr")
         for row in rows:
@@ -111,7 +106,7 @@ def extract_events(html_content):
 
 def generate_ical(events):
     cal = Calendar()
-    cal.add('prodid', '-//THWS Schedule Sync//mxm.dev//')
+    cal.add('prodid', '-//Schedule Sync//mxm.dev//')
     cal.add('version', '2.0')
     cal.add('dtstamp', datetime.now(TIMEZONE))
     
