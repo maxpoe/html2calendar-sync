@@ -1,28 +1,35 @@
 # THWS Calendar Sync
 
-This repository contains a script to automatically scrape the THWS schedule (specifically `BMG WiSe 24-25 4 BMG 4. Sem. SoSe 26`) and convert it into a subscribable iCalendar (`.ics`) file.
+This repository contains a script to automatically scrape a THWS schedule and convert it into a subscribable Calendar (`.ics`) file.
 
 The script runs nightly via GitHub Actions to ensure the calendar is always up to date.
 
 ## Subscribe to the Calendar
 
-To add this schedule to your Apple Calendar (or any other calendar app that supports `.ics` subscriptions):
+To add this schedule to your Calendar (`.ics` supported):
 
 1. **Copy the link to the generated `.ics` file**:
    Navigate to `schedule.ics` in this repository, click **Raw**, and copy the resulting URL.
-   *(Once you push this to your repository, it will look something like `https://raw.githubusercontent.com/username/thws-calendar-sync/main/schedule.ics`)*
 
-2. **Add to Apple Calendar**:
-   - Open the **Calendar** app on your Mac or iPhone.
+2. **Add to Calendar**:
+   - Open the **Calendar** app on your device.
    - Go to **File** > **New Calendar Subscription...**
    - Paste the copied Raw URL.
    - Click **Subscribe**.
    - You can choose the auto-refresh interval (e.g., Every day).
 
-## Development
+## Setup & Configuration
 
-To run the script locally:
+This project requires you to specify the schedule URL as an environment variable to prevent hardcoding PII/Specific links.
+
+1. **GitHub Actions**: Add a Repository Secret named `SCHEDULE_URL` containing the link to the THWS schedule HTML page.
+2. **Local Development**: Run the script by passing the environment variable:
+
 ```bash
 pip install -r requirements.txt
-python sync.py
+SCHEDULE_URL="https://fas.thws.de/..." python sync.py
 ```
+
+## License
+
+This project is open-source and available under the MIT License.

@@ -1,4 +1,5 @@
 import sys
+import os
 import requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event, vText
@@ -7,10 +8,12 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import re
 
-URL = "https://fas.thws.de/fileadmin/share/vlplan/wochen/BMG%20WiSe%2024-25_4_BMG%204.%20Sem.%20SoSe%2026.html"
+URL = os.environ.get("SCHEDULE_URL", "")
 TIMEZONE = pytz.timezone("Europe/Berlin")
 
 def fetch_html(url):
+    if not url:
+        raise ValueError("SCHEDULE_URL environment variable is not set.")
     print(f"Fetching URL: {url}")
     response = requests.get(url)
     response.raise_for_status()
