@@ -1,0 +1,4 @@
+schedule.ics
+.env
+__pycache__/
+*.py[cod]
