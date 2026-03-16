@@ -1,0 +1,818 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule Sync//mxm.dev//
+DTSTAMP:20260316T085125Z
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260318T081500
+DTEND;TZID=Europe/Berlin:20260318T094500
+UID:20260318T081500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260319T081500
+DTEND;TZID=Europe/Berlin:20260319T113000
+UID:20260319T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260320T090000
+DTEND;TZID=Europe/Berlin:20260320T160000
+UID:20260320T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260317T100000
+DTEND;TZID=Europe/Berlin:20260317T131500
+UID:20260317T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.0.11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260318T100000
+DTEND;TZID=Europe/Berlin:20260318T131500
+UID:20260318T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260317T133000
+DTEND;TZID=Europe/Berlin:20260317T164500
+UID:20260317T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260319T133000
+DTEND;TZID=Europe/Berlin:20260319T160000
+UID:20260319T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260316T163000
+DTEND;TZID=Europe/Berlin:20260316T180000
+UID:20260316T163000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260326T081500
+DTEND;TZID=Europe/Berlin:20260326T113000
+UID:20260326T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260327T090000
+DTEND;TZID=Europe/Berlin:20260327T160000
+UID:20260327T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nSeminar\\nTatjana Jocher
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260328T090000
+DTEND;TZID=Europe/Berlin:20260328T160000
+UID:20260328T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nSeminar\\nTatjana Jocher
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260324T100000
+DTEND;TZID=Europe/Berlin:20260324T131500
+UID:20260324T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.09
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260325T100000
+DTEND;TZID=Europe/Berlin:20260325T131500
+UID:20260325T100000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260326T133000
+DTEND;TZID=Europe/Berlin:20260326T160000
+UID:20260326T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260323T163000
+DTEND;TZID=Europe/Berlin:20260323T180000
+UID:20260323T163000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260331T100000
+DTEND;TZID=Europe/Berlin:20260331T131500
+UID:20260331T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260331T133000
+DTEND;TZID=Europe/Berlin:20260331T164500
+UID:20260331T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260401T170000
+DTEND;TZID=Europe/Berlin:20260401T183000
+UID:20260401T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260401T190000
+DTEND;TZID=Europe/Berlin:20260401T203000
+UID:20260401T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260408T100000
+DTEND;TZID=Europe/Berlin:20260408T131500
+UID:20260408T100000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260409T133000
+DTEND;TZID=Europe/Berlin:20260409T160000
+UID:20260409T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260409T170000
+DTEND;TZID=Europe/Berlin:20260409T183000
+UID:20260409T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260414T100000
+DTEND;TZID=Europe/Berlin:20260414T131500
+UID:20260414T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.4.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260415T100000
+DTEND;TZID=Europe/Berlin:20260415T131500
+UID:20260415T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260416T100000
+DTEND;TZID=Europe/Berlin:20260416T131500
+UID:20260416T100000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260416T133000
+DTEND;TZID=Europe/Berlin:20260416T160000
+UID:20260416T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260415T170000
+DTEND;TZID=Europe/Berlin:20260415T183000
+UID:20260415T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260415T190000
+DTEND;TZID=Europe/Berlin:20260415T203000
+UID:20260415T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260423T081500
+DTEND;TZID=Europe/Berlin:20260423T113000
+UID:20260423T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260420T100000
+DTEND;TZID=Europe/Berlin:20260420T183000
+UID:20260420T100000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260421T100000
+DTEND;TZID=Europe/Berlin:20260421T131500
+UID:20260421T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260421T133000
+DTEND;TZID=Europe/Berlin:20260421T164500
+UID:20260421T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein\\nM.2.09
+LOCATION:PRÄSENZ-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260423T133000
+DTEND;TZID=Europe/Berlin:20260423T160000
+UID:20260423T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:Z.P.2.4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260430T081500
+DTEND;TZID=Europe/Berlin:20260430T113000
+UID:20260430T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260427T100000
+DTEND;TZID=Europe/Berlin:20260427T164500
+UID:20260427T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260428T100000
+DTEND;TZID=Europe/Berlin:20260428T131500
+UID:20260428T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260429T100000
+DTEND;TZID=Europe/Berlin:20260429T131500
+UID:20260429T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260428T133000
+DTEND;TZID=Europe/Berlin:20260428T164500
+UID:20260428T133000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260430T133000
+DTEND;TZID=Europe/Berlin:20260430T160000
+UID:20260430T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260429T170000
+DTEND;TZID=Europe/Berlin:20260429T183000
+UID:20260429T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260429T190000
+DTEND;TZID=Europe/Berlin:20260429T203000
+UID:20260429T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260507T081500
+DTEND;TZID=Europe/Berlin:20260507T113000
+UID:20260507T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260508T090000
+DTEND;TZID=Europe/Berlin:20260508T154500
+UID:20260508T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260504T100000
+DTEND;TZID=Europe/Berlin:20260504T164500
+UID:20260504T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260505T100000
+DTEND;TZID=Europe/Berlin:20260505T131500
+UID:20260505T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.0.10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260506T100000
+DTEND;TZID=Europe/Berlin:20260506T131500
+UID:20260506T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260505T133000
+DTEND;TZID=Europe/Berlin:20260505T164500
+UID:20260505T133000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260507T133000
+DTEND;TZID=Europe/Berlin:20260507T160000
+UID:20260507T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nWISO
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260506T170000
+DTEND;TZID=Europe/Berlin:20260506T183000
+UID:20260506T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260512T100000
+DTEND;TZID=Europe/Berlin:20260512T131500
+UID:20260512T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.3.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260513T100000
+DTEND;TZID=Europe/Berlin:20260513T131500
+UID:20260513T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260512T133000
+DTEND;TZID=Europe/Berlin:20260512T164500
+UID:20260512T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260513T170000
+DTEND;TZID=Europe/Berlin:20260513T183000
+UID:20260513T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260513T190000
+DTEND;TZID=Europe/Berlin:20260513T203000
+UID:20260513T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260521T081500
+DTEND;TZID=Europe/Berlin:20260521T113000
+UID:20260521T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260518T100000
+DTEND;TZID=Europe/Berlin:20260518T164500
+UID:20260518T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260519T100000
+DTEND;TZID=Europe/Berlin:20260519T131500
+UID:20260519T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260520T100000
+DTEND;TZID=Europe/Berlin:20260520T131500
+UID:20260520T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260519T133000
+DTEND;TZID=Europe/Berlin:20260519T164500
+UID:20260519T133000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260521T133000
+DTEND;TZID=Europe/Berlin:20260521T160000
+UID:20260521T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nWISO
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260520T170000
+DTEND;TZID=Europe/Berlin:20260520T183000
+UID:20260520T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260528T081500
+DTEND;TZID=Europe/Berlin:20260528T113000
+UID:20260528T081500-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
+  Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260529T090000
+DTEND;TZID=Europe/Berlin:20260529T154500
+UID:20260529T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260527T100000
+DTEND;TZID=Europe/Berlin:20260527T131500
+UID:20260527T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260528T133000
+DTEND;TZID=Europe/Berlin:20260528T160000
+UID:20260528T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260527T170000
+DTEND;TZID=Europe/Berlin:20260527T183000
+UID:20260527T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260527T190000
+DTEND;TZID=Europe/Berlin:20260527T203000
+UID:20260527T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260601T100000
+DTEND;TZID=Europe/Berlin:20260601T164500
+UID:20260601T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.0.11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260602T100000
+DTEND;TZID=Europe/Berlin:20260602T131500
+UID:20260602T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.3.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260603T100000
+DTEND;TZID=Europe/Berlin:20260603T131500
+UID:20260603T100000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260603T170000
+DTEND;TZID=Europe/Berlin:20260603T183000
+UID:20260603T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260609T100000
+DTEND;TZID=Europe/Berlin:20260609T131500
+UID:20260609T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260610T100000
+DTEND;TZID=Europe/Berlin:20260610T131500
+UID:20260610T100000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260609T133000
+DTEND;TZID=Europe/Berlin:20260609T164500
+UID:20260609T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260611T133000
+DTEND;TZID=Europe/Berlin:20260611T160000
+UID:20260611T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260610T170000
+DTEND;TZID=Europe/Berlin:20260610T183000
+UID:20260610T170000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nKein Raum
+LOCATION:Asynchrone Lehre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260610T190000
+DTEND;TZID=Europe/Berlin:20260610T203000
+UID:20260610T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260615T100000
+DTEND;TZID=Europe/Berlin:20260615T183000
+UID:20260615T100000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260616T100000
+DTEND;TZID=Europe/Berlin:20260616T131500
+UID:20260616T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260617T100000
+DTEND;TZID=Europe/Berlin:20260617T164500
+UID:20260617T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260618T133000
+DTEND;TZID=Europe/Berlin:20260618T160000
+UID:20260618T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260622T100000
+DTEND;TZID=Europe/Berlin:20260622T164500
+UID:20260622T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260623T100000
+DTEND;TZID=Europe/Berlin:20260623T131500
+UID:20260623T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü Bilanzierung und Controlling
+DTSTART;TZID=Europe/Berlin:20260624T100000
+DTEND;TZID=Europe/Berlin:20260624T131500
+UID:20260624T100000-be545de68e@schedule.sync
+DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260623T133000
+DTEND;TZID=Europe/Berlin:20260623T164500
+UID:20260623T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
+  Christoph Bördlein
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260625T133000
+DTEND;TZID=Europe/Berlin:20260625T160000
+UID:20260625T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260624T190000
+DTEND;TZID=Europe/Berlin:20260624T203000
+UID:20260624T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260630T100000
+DTEND;TZID=Europe/Berlin:20260630T131500
+UID:20260630T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260630T133000
+DTEND;TZID=Europe/Berlin:20260630T183000
+UID:20260630T133000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260702T133000
+DTEND;TZID=Europe/Berlin:20260702T160000
+UID:20260702T133000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nPr
+ äsentation\\nAndrea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260709T090000
+DTEND;TZID=Europe/Berlin:20260709T154500
+UID:20260709T090000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S Gesprächs- und Verhandlungsführung [BMG]
+DTSTART;TZID=Europe/Berlin:20260706T100000
+DTEND;TZID=Europe/Berlin:20260706T164500
+UID:20260706T100000-d29af63c65@schedule.sync
+DESCRIPTION:GVF\\nClaudia Beck
+LOCATION:M.1.07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Grundlagen empirischer Forschung
+DTSTART;TZID=Europe/Berlin:20260707T100000
+DTEND;TZID=Europe/Berlin:20260707T131500
+UID:20260707T100000-eea72786be@schedule.sync
+DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260708T100000
+DTEND;TZID=Europe/Berlin:20260708T183000
+UID:20260708T100000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Digitalisierung im Gesundheitswesen I
+DTSTART;TZID=Europe/Berlin:20260707T133000
+DTEND;TZID=Europe/Berlin:20260707T183000
+UID:20260707T133000-0744a30d93@schedule.sync
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
+LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260708T190000
+DTEND;TZID=Europe/Berlin:20260708T203000
+UID:20260708T190000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
+END:VCALENDAR
