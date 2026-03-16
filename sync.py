@@ -7,6 +7,7 @@ import pytz
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import re
+import hashlib
 
 URL = os.environ.get("SCHEDULE_URL", "")
 TIMEZONE = pytz.timezone("Europe/Berlin")
@@ -121,8 +122,9 @@ def generate_ical(events):
         if e['description']:
             event.add('description', e['description'])
             
-        # Give a unique ID based on start time and title
-        uid = f"{e['start'].strftime('%Y%m%dT%H%M%S')}-{hash(e['title'])}@thws.sync"
+        # Give a unique ID based on start time and title (stable hash)
+        title_hash = hashlib.sha1(e['title'].encode('utf-8')).hexdigest()[:10]
+        uid = f"{e['start'].strftime('%Y%m%dT%H%M%S')}-{title_hash}@schedule.sync"
         event.add('uid', uid)
         
         cal.add_component(event)
