@@ -55,12 +55,11 @@ def parse_time_range(time_range_str):
 
 def extract_events(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
-    table = soup.find("table")
-    if not table:
-        print("No schedule table found.")
+    tables = soup.find_all("table")
+    if not tables:
+        print("No schedule tables found.")
         return []
     
-    rows = table.find_all("tr")
     events = []
     
     # We don't have a rigid assumption of columns, we just look for blocks 
@@ -68,41 +67,43 @@ def extract_events(html_content):
     # Looking at the sample:
     # ['Mi, 18.03.2026', '8:15 - 9:45 Uhr', 'SU Praxisbezogenes Projekt [BMG]', 'PRXP', 'Umgang m. psychischen Belastungen bei Studierenden', 'Prof. Dr. Holger Truckenbrodt', 'M.1.02']
     
-    for row in rows:
-        cols = row.find_all("td")
-        if not cols:
-            continue
-        
-        for col in cols:
-            strings = list(col.stripped_strings)
-            # An event block usually has at least Date, Time, Title, and Room/Lecturer
-            if len(strings) >= 5:
-                # We need to verify if the first string looks like a date and second like a time
-                date_str = strings[0]
-                time_str = strings[1]
-                
-                if "," in date_str and ("-" in time_str or "Uhr" in time_str):
+    for table in tables:
+        rows = table.find_all("tr")
+        for row in rows:
+            cols = row.find_all("td")
+            if not cols:
+                continue
+            
+            for col in cols:
+                strings = list(col.stripped_strings)
+                # An event block usually has at least Date, Time, Title, and Room/Lecturer
+                if len(strings) >= 5:
+                    # We need to verify if the first string looks like a date and second like a time
+                    date_str = strings[0]
+                    time_str = strings[1]
                     
-                    event_date = parse_date(date_str)
-                    start_time, end_time = parse_time_range(time_str)
-                    
-                    if event_date and start_time and end_time:
-                        title = strings[2]
-                        # The rest could be variable (shortcode, detail, lecturer, room), we just join them into a description
-                        # Usually, the last one is the room, second to last is lecturer
-                        location = strings[-1] if len(strings) > 3 else ""
-                        description = "\\n".join(strings[3:-1])
+                    if "," in date_str and ("-" in time_str or "Uhr" in time_str):
                         
-                        start_dt = TIMEZONE.localize(datetime.combine(event_date, start_time))
-                        end_dt = TIMEZONE.localize(datetime.combine(event_date, end_time))
+                        event_date = parse_date(date_str)
+                        start_time, end_time = parse_time_range(time_str)
                         
-                        events.append({
-                            "title": title,
-                            "start": start_dt,
-                            "end": end_dt,
-                            "location": location,
-                            "description": description
-                        })
+                        if event_date and start_time and end_time:
+                            title = strings[2]
+                            # The rest could be variable (shortcode, detail, lecturer, room), we just join them into a description
+                            # Usually, the last one is the room, second to last is lecturer
+                            location = strings[-1] if len(strings) > 3 else ""
+                            description = "\\n".join(strings[3:-1])
+                            
+                            start_dt = TIMEZONE.localize(datetime.combine(event_date, start_time))
+                            end_dt = TIMEZONE.localize(datetime.combine(event_date, end_time))
+                            
+                            events.append({
+                                "title": title,
+                                "start": start_dt,
+                                "end": end_dt,
+                                "location": location,
+                                "description": description
+                            })
     return events
 
 def generate_ical(events):
