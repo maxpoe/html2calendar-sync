@@ -1,4 +1,4 @@
-# THWS Calendar Sync
+# PDF2ICS Calendar Sync
 
 This repository contains a script to automatically scrape a hosted PDF schedule and convert it into a subscribable Calendar (`.ics`) file.
 
@@ -26,8 +26,8 @@ This project requires you to specify the schedule URL as an environment variable
 2. **Local Development**: Run the script by passing the environment variable:
 
 ```bash
-pip install -r requirements.txt
-SCHEDULE_URL="https://your-pdf-url-here/..." python sync.py
+pip3 install -r requirements.txt
+SCHEDULE_URL="https://fas.thws.de/..." python3 sync.py
 ```
 
 ## License
