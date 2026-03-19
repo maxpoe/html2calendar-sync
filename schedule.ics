@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260318T041651Z
+DTSTAMP:20260319T041543Z
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260318T081500
@@ -153,7 +153,7 @@ DTEND;TZID=Europe/Berlin:20260331T164500
 UID:20260331T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
   Christoph Bördlein
-LOCATION:M.2.14
+LOCATION:M.3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
@@ -280,8 +280,8 @@ DTSTART;TZID=Europe/Berlin:20260421T133000
 DTEND;TZID=Europe/Berlin:20260421T164500
 UID:20260421T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
-  Christoph Bördlein\\nM.2.09
-LOCATION:PRÄSENZ-VERANSTALTUNG
+  Christoph Bördlein
+LOCATION:M.3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
@@ -452,7 +452,7 @@ DTEND;TZID=Europe/Berlin:20260512T164500
 UID:20260512T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
   Christoph Bördlein
-LOCATION:M.2.14
+LOCATION:M.3.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
@@ -606,7 +606,7 @@ DTEND;TZID=Europe/Berlin:20260603T131500
 UID:20260603T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.1.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
@@ -640,7 +640,7 @@ DTEND;TZID=Europe/Berlin:20260609T164500
 UID:20260609T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
   Christoph Bördlein
-LOCATION:M.2.14
+LOCATION:M.1.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
@@ -732,7 +732,7 @@ DTEND;TZID=Europe/Berlin:20260623T164500
 UID:20260623T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
   Christoph Bördlein
-LOCATION:M.2.14
+LOCATION:M.2.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
