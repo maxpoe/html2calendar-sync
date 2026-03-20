@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260319T041543Z
+DTSTAMP:20260320T040719Z
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260318T081500
@@ -213,7 +213,7 @@ DTEND;TZID=Europe/Berlin:20260415T131500
 UID:20260415T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.2.10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -324,7 +324,7 @@ DTEND;TZID=Europe/Berlin:20260429T131500
 UID:20260429T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.2.10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -400,7 +400,7 @@ DTEND;TZID=Europe/Berlin:20260506T131500
 UID:20260506T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.2.10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -443,7 +443,7 @@ DTEND;TZID=Europe/Berlin:20260513T131500
 UID:20260513T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.2.10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
@@ -503,7 +503,7 @@ DTEND;TZID=Europe/Berlin:20260520T131500
 UID:20260520T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.0.11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -555,7 +555,7 @@ DTEND;TZID=Europe/Berlin:20260527T131500
 UID:20260527T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.14
+LOCATION:M.1.08
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
