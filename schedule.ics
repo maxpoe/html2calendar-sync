@@ -1,76 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260322T041234Z
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260318T081500
-DTEND;TZID=Europe/Berlin:20260318T094500
-UID:20260318T081500-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
- of. Dr. Holger Truckenbrodt\\nM.2.11
-LOCATION:TERMINVERSCHIEBUNG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260319T081500
-DTEND;TZID=Europe/Berlin:20260319T113000
-UID:20260319T081500-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
-  Truckenbrodt\\nM.2.13
-LOCATION:ENTFÄLLT WG. KRANKHEIT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260320T090000
-DTEND;TZID=Europe/Berlin:20260320T160000
-UID:20260320T090000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala
-LOCATION:M.2.14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Grundlagen empirischer Forschung
-DTSTART;TZID=Europe/Berlin:20260317T100000
-DTEND;TZID=Europe/Berlin:20260317T131500
-UID:20260317T100000-eea72786be@schedule.sync
-DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
-LOCATION:M.0.11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260318T100000
-DTEND;TZID=Europe/Berlin:20260318T131500
-UID:20260318T100000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
- ger Truckenbrodt\\nM.2.14
-LOCATION:ENTFÄLLT WG. KRANKHEIT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260317T133000
-DTEND;TZID=Europe/Berlin:20260317T164500
-UID:20260317T133000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
-  Christoph Bördlein
-LOCATION:M.2.14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260319T133000
-DTEND;TZID=Europe/Berlin:20260319T160000
-UID:20260319T133000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260316T163000
-DTEND;TZID=Europe/Berlin:20260316T180000
-UID:20260316T163000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
-LOCATION:M.1.02
-END:VEVENT
+DTSTAMP:20260323T042214Z
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260325T081500
