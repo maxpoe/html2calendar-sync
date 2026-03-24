@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260323T042214Z
+DTSTAMP:20260324T041124Z
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260325T081500
@@ -66,8 +66,9 @@ SUMMARY:SU Digitalisierung im Gesundheitswesen I
 DTSTART;TZID=Europe/Berlin:20260323T163000
 DTEND;TZID=Europe/Berlin:20260323T180000
 UID:20260323T163000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
-LOCATION:M.1.02
+DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
+ \nWISO
+LOCATION:ONLINE-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
@@ -177,7 +178,7 @@ SUMMARY:PA Praxisbezogenes Projekt [BPM]
 DTSTART;TZID=Europe/Berlin:20260415T190000
 DTEND;TZID=Europe/Berlin:20260415T203000
 UID:20260415T190000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nWISO
 LOCATION:ONLINE-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
