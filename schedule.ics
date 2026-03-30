@@ -1,75 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260329T043131Z
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260325T081500
-DTEND;TZID=Europe/Berlin:20260325T094500
-UID:20260325T081500-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
- of. Dr. Holger Truckenbrodt\\nM.2.11
-LOCATION:NACHHOLTERMIN
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260326T081500
-DTEND;TZID=Europe/Berlin:20260326T113000
-UID:20260326T081500-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
-  Truckenbrodt
-LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260327T090000
-DTEND;TZID=Europe/Berlin:20260327T160000
-UID:20260327T090000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nSeminar\\nTatjana Jocher
-LOCATION:M.1.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260328T090000
-DTEND;TZID=Europe/Berlin:20260328T160000
-UID:20260328T090000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nSeminar\\nTatjana Jocher
-LOCATION:M.1.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Grundlagen empirischer Forschung
-DTSTART;TZID=Europe/Berlin:20260324T100000
-DTEND;TZID=Europe/Berlin:20260324T131500
-UID:20260324T100000-eea72786be@schedule.sync
-DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
-LOCATION:M.1.09
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260325T100000
-DTEND;TZID=Europe/Berlin:20260325T131500
-UID:20260325T100000-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
-LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260326T133000
-DTEND;TZID=Europe/Berlin:20260326T160000
-UID:20260326T133000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260323T163000
-DTEND;TZID=Europe/Berlin:20260323T180000
-UID:20260323T163000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
- \nWISO
-LOCATION:ONLINE-VERANSTALTUNG
-END:VEVENT
+DTSTAMP:20260330T043944Z
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260331T100000
