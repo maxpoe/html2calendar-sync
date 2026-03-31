@@ -1,7 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260330T043944Z
+DTSTAMP:20260331T043101Z
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260401T090000
+DTEND;TZID=Europe/Berlin:20260401T103000
+UID:20260401T090000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt\\nWISO
+LOCATION:ONLINE-VERANSTALTUNG
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260331T100000
@@ -46,12 +55,12 @@ LOCATION:M.2.13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260409T133000
-DTEND;TZID=Europe/Berlin:20260409T160000
-UID:20260409T133000-aae904c2e0@schedule.sync
+DTSTART;TZID=Europe/Berlin:20260408T140000
+DTEND;TZID=Europe/Berlin:20260408T163000
+UID:20260408T140000-aae904c2e0@schedule.sync
 DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nM.2.14
+LOCATION:TERMINVERSCHIEBUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
@@ -89,9 +98,9 @@ LOCATION:M.2.13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260416T133000
-DTEND;TZID=Europe/Berlin:20260416T160000
-UID:20260416T133000-aae904c2e0@schedule.sync
+DTSTART;TZID=Europe/Berlin:20260416T140000
+DTEND;TZID=Europe/Berlin:20260416T163000
+UID:20260416T140000-aae904c2e0@schedule.sync
 DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
  drea Knott-Wahler\, Prof. Dr. Alexander Schraml
 LOCATION:M.2.14
