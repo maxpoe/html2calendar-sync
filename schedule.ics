@@ -1,50 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260405T043200Z
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260401T090000
-DTEND;TZID=Europe/Berlin:20260401T103000
-UID:20260401T090000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
- of. Dr. Holger Truckenbrodt\\nWISO
-LOCATION:ONLINE-VERANSTALTUNG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Grundlagen empirischer Forschung
-DTSTART;TZID=Europe/Berlin:20260331T100000
-DTEND;TZID=Europe/Berlin:20260331T131500
-UID:20260331T100000-eea72786be@schedule.sync
-DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
-LOCATION:M.1.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260331T133000
-DTEND;TZID=Europe/Berlin:20260331T164500
-UID:20260331T133000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
-  Christoph Bördlein
-LOCATION:M.3.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260401T170000
-DTEND;TZID=Europe/Berlin:20260401T183000
-UID:20260401T170000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
- \nKein Raum
-LOCATION:Asynchrone Lehre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260401T190000
-DTEND;TZID=Europe/Berlin:20260401T203000
-UID:20260401T190000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
-LOCATION:ONLINE-VERANSTALTUNG
-END:VEVENT
+DTSTAMP:20260406T043917Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260408T100000
