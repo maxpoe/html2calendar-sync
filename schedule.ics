@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260409T042738Z
+DTSTAMP:20260410T044114Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260408T100000
@@ -105,6 +105,15 @@ DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
 LOCATION:M.1.02
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260423T114500
+DTEND;TZID=Europe/Berlin:20260423T131500
+UID:20260423T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.1.08
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
 DTSTART;TZID=Europe/Berlin:20260421T133000
 DTEND;TZID=Europe/Berlin:20260421T164500
@@ -155,6 +164,15 @@ UID:20260429T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
 LOCATION:M.2.10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260430T114500
+DTEND;TZID=Europe/Berlin:20260430T131500
+UID:20260430T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.0.03
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -231,6 +249,15 @@ UID:20260506T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
 LOCATION:M.2.10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260507T114500
+DTEND;TZID=Europe/Berlin:20260507T131500
+UID:20260507T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.1.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -336,6 +363,15 @@ DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
 LOCATION:M.0.11
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260521T114500
+DTEND;TZID=Europe/Berlin:20260521T131500
+UID:20260521T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.0.10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260519T133000
 DTEND;TZID=Europe/Berlin:20260519T164500
@@ -385,6 +421,15 @@ DTEND;TZID=Europe/Berlin:20260527T131500
 UID:20260527T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
+LOCATION:M.1.08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260528T114500
+DTEND;TZID=Europe/Berlin:20260528T131500
+UID:20260528T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
 LOCATION:M.1.08
 END:VEVENT
 BEGIN:VEVENT
@@ -464,6 +509,15 @@ DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
 LOCATION:M.2.13
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260611T114500
+DTEND;TZID=Europe/Berlin:20260611T131500
+UID:20260611T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.1.10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
 DTSTART;TZID=Europe/Berlin:20260609T133000
 DTEND;TZID=Europe/Berlin:20260609T164500
@@ -524,6 +578,15 @@ LOCATION:M.1.07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260618T114500
+DTEND;TZID=Europe/Berlin:20260618T131500
+UID:20260618T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260618T133000
 DTEND;TZID=Europe/Berlin:20260618T160000
 UID:20260618T133000-aae904c2e0@schedule.sync
@@ -554,6 +617,15 @@ DTEND;TZID=Europe/Berlin:20260624T131500
 UID:20260624T100000-be545de68e@schedule.sync
 DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
 LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260625T114500
+DTEND;TZID=Europe/Berlin:20260625T131500
+UID:20260625T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.1.02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
@@ -588,6 +660,15 @@ DTEND;TZID=Europe/Berlin:20260630T131500
 UID:20260630T100000-eea72786be@schedule.sync
 DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
 LOCATION:M.1.02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260702T114500
+DTEND;TZID=Europe/Berlin:20260702T131500
+UID:20260702T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
+ of. Dr. Holger Truckenbrodt
+LOCATION:M.3.13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
