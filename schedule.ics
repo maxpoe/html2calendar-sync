@@ -1,33 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260412T044211Z
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260408T100000
-DTEND;TZID=Europe/Berlin:20260408T131500
-UID:20260408T100000-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
-LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260408T140000
-DTEND;TZID=Europe/Berlin:20260408T163000
-UID:20260408T140000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nM.2.14
-LOCATION:TERMINVERSCHIEBUNG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260409T170000
-DTEND;TZID=Europe/Berlin:20260409T183000
-UID:20260409T170000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
- \nKein Raum
-LOCATION:Asynchrone Lehre
-END:VEVENT
+DTSTAMP:20260413T045325Z
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260414T100000
