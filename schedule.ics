@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260413T045325Z
+DTSTAMP:20260414T044018Z
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260414T100000
@@ -26,6 +26,15 @@ DTEND;TZID=Europe/Berlin:20260416T131500
 UID:20260416T100000-be545de68e@schedule.sync
 DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
 LOCATION:M.2.13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
+DTSTART;TZID=Europe/Berlin:20260416T133000
+DTEND;TZID=Europe/Berlin:20260416T150000
+UID:20260416T133000-bbb4aa2e90@schedule.sync
+DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
+ ger Truckenbrodt
+LOCATION:Z.P.1.5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
