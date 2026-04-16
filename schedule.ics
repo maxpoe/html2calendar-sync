@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260415T044029Z
+DTSTAMP:20260416T044650Z
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260414T100000
@@ -146,7 +146,7 @@ DTEND;TZID=Europe/Berlin:20260429T131500
 UID:20260429T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.10
+LOCATION:M.2.13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
@@ -231,7 +231,7 @@ DTEND;TZID=Europe/Berlin:20260506T131500
 UID:20260506T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.10
+LOCATION:M.1.07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Praxisbezogenes Projekt [BMG]
@@ -283,7 +283,7 @@ DTEND;TZID=Europe/Berlin:20260513T131500
 UID:20260513T100000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
  ger Truckenbrodt
-LOCATION:M.2.10
+LOCATION:M.1.07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
