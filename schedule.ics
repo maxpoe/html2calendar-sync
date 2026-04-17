@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260416T044650Z
+DTSTAMP:20260417T044401Z
 BEGIN:VEVENT
 SUMMARY:SU Grundlagen empirischer Forschung
 DTSTART;TZID=Europe/Berlin:20260414T100000
@@ -59,8 +59,8 @@ SUMMARY:PA Praxisbezogenes Projekt [BPM]
 DTSTART;TZID=Europe/Berlin:20260415T190000
 DTEND;TZID=Europe/Berlin:20260415T203000
 UID:20260415T190000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nWISO
-LOCATION:ONLINE-VERANSTALTUNG
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
+LOCATION:PRÄSENZ-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
@@ -175,6 +175,14 @@ DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
 LOCATION:M.2.14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PA Praxisbezogenes Projekt [BPM]
+DTSTART;TZID=Europe/Berlin:20260429T140000
+DTEND;TZID=Europe/Berlin:20260429T153000
+UID:20260429T140000-94a23f24e0@schedule.sync
+DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.1.09
+LOCATION:PRÄSENZ-VERANSTALTUNG
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
 DTSTART;TZID=Europe/Berlin:20260429T170000
 DTEND;TZID=Europe/Berlin:20260429T183000
@@ -182,14 +190,6 @@ UID:20260429T170000-0744a30d93@schedule.sync
 DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
  \nKein Raum
 LOCATION:Asynchrone Lehre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260429T190000
-DTEND;TZID=Europe/Berlin:20260429T203000
-UID:20260429T190000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
-LOCATION:ONLINE-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
