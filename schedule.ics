@@ -1,67 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260419T044636Z
-BEGIN:VEVENT
-SUMMARY:SU Grundlagen empirischer Forschung
-DTSTART;TZID=Europe/Berlin:20260414T100000
-DTEND;TZID=Europe/Berlin:20260414T131500
-UID:20260414T100000-eea72786be@schedule.sync
-DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
-LOCATION:M.4.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260415T100000
-DTEND;TZID=Europe/Berlin:20260415T131500
-UID:20260415T100000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
- ger Truckenbrodt
-LOCATION:M.2.10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260416T100000
-DTEND;TZID=Europe/Berlin:20260416T131500
-UID:20260416T100000-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
-LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260416T133000
-DTEND;TZID=Europe/Berlin:20260416T150000
-UID:20260416T133000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nBetriebliches Gesundheitsmanagement BGM\\nProf. Dr. Hol
- ger Truckenbrodt
-LOCATION:Z.P.1.5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260416T140000
-DTEND;TZID=Europe/Berlin:20260416T163000
-UID:20260416T140000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260415T170000
-DTEND;TZID=Europe/Berlin:20260415T183000
-UID:20260415T170000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke\
- \nKein Raum
-LOCATION:Asynchrone Lehre
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PA Praxisbezogenes Projekt [BPM]
-DTSTART;TZID=Europe/Berlin:20260415T190000
-DTEND;TZID=Europe/Berlin:20260415T203000
-UID:20260415T190000-94a23f24e0@schedule.sync
-DESCRIPTION:PP\\nIndische Auszubildende\\nProf. Dr. Lukas Slotala\\nM.2.14
-LOCATION:PRÄSENZ-VERANSTALTUNG
-END:VEVENT
+DTSTAMP:20260420T045305Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260423T081500
