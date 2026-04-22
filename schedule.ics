@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260421T044351Z
+DTSTAMP:20260422T044118Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260423T081500
@@ -32,6 +32,15 @@ SUMMARY:SU Praxisbezogenes Projekt [BMG]
 DTSTART;TZID=Europe/Berlin:20260423T114500
 DTEND;TZID=Europe/Berlin:20260423T131500
 UID:20260423T114500-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nM.2.09
+LOCATION:ZEIT- & RAUMÄNDERUNG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260423T114500
+DTEND;TZID=Europe/Berlin:20260423T131500
+UID:20260423T114500-aae904c2e0@schedule.sync
 DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
  of. Dr. Holger Truckenbrodt
 LOCATION:M.1.08
@@ -44,15 +53,6 @@ UID:20260421T133000-bbb4aa2e90@schedule.sync
 DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
   Christoph Bördlein
 LOCATION:M.3.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260423T133000
-DTEND;TZID=Europe/Berlin:20260423T160000
-UID:20260423T133000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:Z.P.2.4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
