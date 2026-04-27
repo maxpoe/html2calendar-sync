@@ -1,59 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260426T045400Z
-BEGIN:VEVENT
-SUMMARY:Ü Bilanzierung und Controlling
-DTSTART;TZID=Europe/Berlin:20260423T081500
-DTEND;TZID=Europe/Berlin:20260423T113000
-UID:20260423T081500-be545de68e@schedule.sync
-DESCRIPTION:Bilanzierung und Controlling\\nBilanzierung\\nProf. Dr. Holger
-  Truckenbrodt
-LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Digitalisierung im Gesundheitswesen I
-DTSTART;TZID=Europe/Berlin:20260420T100000
-DTEND;TZID=Europe/Berlin:20260420T183000
-UID:20260420T100000-0744a30d93@schedule.sync
-DESCRIPTION:Digitalisierung im Gesundheitswesen I\\nProf. Dr. Sven Warnke
-LOCATION:M.1.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Grundlagen empirischer Forschung
-DTSTART;TZID=Europe/Berlin:20260421T100000
-DTEND;TZID=Europe/Berlin:20260421T131500
-UID:20260421T100000-eea72786be@schedule.sync
-DESCRIPTION:Grundlagen empirischer Forschung\\nProf. Dr. Tanja Mühling
-LOCATION:M.1.02
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260423T114500
-DTEND;TZID=Europe/Berlin:20260423T131500
-UID:20260423T114500-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nM.2.09
-LOCATION:ZEIT- & RAUMÄNDERUNG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260423T114500
-DTEND;TZID=Europe/Berlin:20260423T131500
-UID:20260423T114500-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
- of. Dr. Holger Truckenbrodt
-LOCATION:M.1.08
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Fachwissenschaftliches Wahlpflichtmodul [BMG]
-DTSTART;TZID=Europe/Berlin:20260421T133000
-DTEND;TZID=Europe/Berlin:20260421T164500
-UID:20260421T133000-bbb4aa2e90@schedule.sync
-DESCRIPTION:FWPM\\nVerhaltensorientierte Gesundheitsförderung\\nProf. Dr.
-  Christoph Bördlein
-LOCATION:M.3.02
-END:VEVENT
+DTSTAMP:20260427T051721Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260430T081500
