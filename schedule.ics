@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Schedule Sync//mxm.dev//
-DTSTAMP:20260427T051721Z
+DTSTAMP:20260428T052458Z
 BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260430T081500
@@ -46,21 +46,21 @@ DESCRIPTION:PRXP\\nUmgang m. psychischen Belastungen bei Studierenden\\nPr
 LOCATION:M.0.03
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SU Praxisbezogenes Projekt [BMG]
+DTSTART;TZID=Europe/Berlin:20260430T123000
+DTEND;TZID=Europe/Berlin:20260430T150000
+UID:20260430T123000-aae904c2e0@schedule.sync
+DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml
+LOCATION:M.2.14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ü Bilanzierung und Controlling
 DTSTART;TZID=Europe/Berlin:20260428T133000
 DTEND;TZID=Europe/Berlin:20260428T164500
 UID:20260428T133000-be545de68e@schedule.sync
 DESCRIPTION:Bilanzierung und Controlling\\nControlling\\nRalf Heimbach
 LOCATION:M.2.13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SU Praxisbezogenes Projekt [BMG]
-DTSTART;TZID=Europe/Berlin:20260430T133000
-DTEND;TZID=Europe/Berlin:20260430T160000
-UID:20260430T133000-aae904c2e0@schedule.sync
-DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PA Praxisbezogenes Projekt [BPM]
@@ -256,8 +256,8 @@ DTSTART;TZID=Europe/Berlin:20260521T133000
 DTEND;TZID=Europe/Berlin:20260521T160000
 UID:20260521T133000-aae904c2e0@schedule.sync
 DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nWISO
-LOCATION:ONLINE-VERANSTALTUNG
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nM.0.11
+LOCATION:PRÄSENZ-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SU Digitalisierung im Gesundheitswesen I
@@ -513,8 +513,8 @@ DTSTART;TZID=Europe/Berlin:20260625T133000
 DTEND;TZID=Europe/Berlin:20260625T160000
 UID:20260625T133000-aae904c2e0@schedule.sync
 DESCRIPTION:PRXP\\nGewaltschutz i. Pflegeheimen - Konzept\, Leitfaden\\nAn
- drea Knott-Wahler\, Prof. Dr. Alexander Schraml
-LOCATION:M.2.14
+ drea Knott-Wahler\, Prof. Dr. Alexander Schraml\\nWISO
+LOCATION:ONLINE-VERANSTALTUNG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PA Praxisbezogenes Projekt [BPM]
